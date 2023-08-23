@@ -12,7 +12,7 @@
 
 ```python3 -m venv .venv```
 
-## 4) activier l'environnement virtuel : 
+## 4) activier l'environnement virtuel : 
 
 + sous linux : 
 
