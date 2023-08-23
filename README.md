@@ -1,3 +1,7 @@
+# Physique 2D
+
+On fait dans ce projet une petite simulation de la physique newtonienne en 2D. Quelque chose de très basique fait en une soirée, avec pygame.
+
 # Installer le projet
 
 ## 1) télécharger les fichiers
